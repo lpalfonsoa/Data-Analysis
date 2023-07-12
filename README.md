@@ -10,6 +10,9 @@ In this repository you will find a collection of projects related to data scienc
 
 This project revolves around the analysis and prediction of income levels by leveraging demographic and socioeconomic variables. Through an extensive data cleanup process, I address missing values, handle outliers, and ensure data integrity. I employ exploratory data analysis techniques to gain insights into the dataset, identify patterns, and understand the relationships between different features. Feature engineering is applied to enhance the predictive power of the models by creating new variables or transforming existing ones. By implementing machine learning algorithms such as logistic regression, gradient boosting, and support vector machines, my aim is to classify individuals into distinct income groups accurately. The project demonstrates the importance of data preprocessing, exploratory analysis, and feature engineering in enhancing the performance of predictive models.
 
+- [Pneumonia Detection using Deep Learning](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Pneumonia-Classification.ipynb):
+
+This project focuses on classifying pneumonia from X-ray images using deep learning techniques. Three different Convolutional Neural Network (CNN) models were designed and evaluated, with Model 1 trained without and with data augmentation and Models 2 and 3 incorporating data augmentation techniques. The models were evaluated based on precision, recall, and accuracy metrics. The results showed that Model 1 achieved the highest precision and accuracy, indicating its superior performance in pneumonia classification. 
 
 - [Cancer breast:](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/BreastCancer.ipynb)
 
