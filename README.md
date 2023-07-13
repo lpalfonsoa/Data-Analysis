@@ -12,7 +12,7 @@ This project revolves around the analysis and prediction of income levels by lev
 
 - [Pneumonia Detection using Deep Learning](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Pneumonia-Classification.ipynb):
 
-This project focuses on classifying pneumonia from X-ray images using deep learning techniques. Three different Convolutional Neural Network (CNN) models were designed and evaluated, with Model 1 trained without and with data augmentation and Models 2 and 3 incorporating data augmentation techniques. The models were evaluated based on precision, recall, and accuracy metrics. The results showed that Model 1 achieved the highest precision and accuracy, indicating its superior performance in pneumonia classification. 
+This project focuses on evaluating and comparing the performance of three convolutional neural network (CNN) models in the classification of pneumonia from X-ray images. The primary objective was to determine the optimal model for accurate and reliable pneumonia classification. The models were trained using a dataset that incorporated data augmentation techniques to enhance the model's performance. Various evaluation metrics, including accuracy and precision, were utilized to assess the models' classification capabilities. Additionally, the code provided visualization components, such as sample image plots and TensorBoard monitoring, to aid in the analysis and interpretation of the results. The findings indicated that Model 1 exhibited the highest precision and accuracy, showcasing its effectiveness in pneumonia classification.
 
 - [Cancer breast:](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/BreastCancer.ipynb)
 
