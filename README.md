@@ -6,6 +6,12 @@ In this repository you will find a collection of projects related to data scienc
 
 
 ## <span style="color:black"> Projects </span> 
+
+- [Power BI dashboard: London Share Bike Insights](https://app.powerbi.com/view?r=eyJrIjoiOTA1NzdkNDEtODI5MC00NmE2LTgwMjMtNDAwNDNiOTBlMTNmIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=ReportSection): 
+
+Uncover valuable London Bike Share insights with interactive charts and graphs. Dive into ride trends based on time, weather, and seasons, gaining a deeper understanding of user preferences. Analyze the impact of temperature on ride patterns and explore how weather influences biking behavior. Customize your view using intuitive filters, empowering you to extract actionable insights from the data. Harness the power of data-driven decisions to optimize urban mobility and create a greener, more efficient transportation system.
+Python was employed to validate the dataset, perform data cleansing, and make necessary adjustments to the columns, notebook available [here](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Bike.ipynb): 
+
 - [Sales prediction models](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Advertisement.ipynb): 
 
 In this project, Multiple Linear Regression (MLR) and Polynomial Regression (PR) models were utilized to predict sales based on advertising budgets across various media channels. The PR model demonstrated superior accuracy with an impressive R2-Score of 99% for both the training and testing sets. These regression models offer valuable insights into customer behavior and facilitate data-driven decision-making for optimizing marketing strategies. For future improvements, expanding the dataset size would enhance the models' performance and generalization capabilities, providing deeper insights for better decision-making and maximizing overall success.
@@ -20,4 +26,3 @@ This project focuses on evaluating and comparing the performance of three convol
 - [Comparative analysis of science news in Colombia, Spain, and the United States (Report)](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Comparative%20analysis%20in%20science%20news.pdf)
 
 This article presents an analysis of the content of scientific news in selected media outlets from Colombia, Spain, and the United States. The study aims to identify patterns, differences, and similarities in the topics covered by the press in each country, using web scraping techniques and natural language processing. The data was collected from the Google News feed during a 15-day period in the first semester of 2023. The media outlets selected for each country were chosen based on their popularity and the presence of a dedicated science section. The collected news articles were processed using natural language analysis techniques. With the data, word frequency was calculated to identify the most common topics in each country, as well as the number of publications, the probability density of word frequency, and the entropy. The results showed that Colombia has the highest number of news articles, while Spain has the longest average article length. It was evident that all three countries consistently publish a steady number of articles each day. Finally, differences in entropy were found, indicating variations in the diversity of language used.
-
