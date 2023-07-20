@@ -6,6 +6,9 @@ In this repository you will find a collection of projects related to data scienc
 
 
 ## <span style="color:black"> Projects </span> 
+- [Sales prediction models](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/Advertisement.ipynb): 
+
+In this project, Multiple Linear Regression (MLR) and Polynomial Regression (PR) models were utilized to predict sales based on advertising budgets across various media channels. The PR model demonstrated superior accuracy with an impressive R2-Score of 99% for both the training and testing sets. These regression models offer valuable insights into customer behavior and facilitate data-driven decision-making for optimizing marketing strategies. For future improvements, expanding the dataset size would enhance the models' performance and generalization capabilities, providing deeper insights for better decision-making and maximizing overall success.
 - [Adult income census prediction](https://github.com/lpalfonsoa/Data-Analysis/blob/main/Notebooks/CensusIncome.ipynb): 
 
 This project revolves around the analysis and prediction of income levels by leveraging demographic and socioeconomic variables. Through an extensive data cleanup process, I address missing values, handle outliers, and ensure data integrity. I employ exploratory data analysis techniques to gain insights into the dataset, identify patterns, and understand the relationships between different features. Feature engineering is applied to enhance the predictive power of the models by creating new variables or transforming existing ones. By implementing machine learning algorithms such as logistic regression, gradient boosting, and support vector machines, my aim is to classify individuals into distinct income groups accurately. The project demonstrates the importance of data preprocessing, exploratory analysis, and feature engineering in enhancing the performance of predictive models.
